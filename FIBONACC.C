@@ -13,6 +13,6 @@ void main()
 		var2=nexterm;
 		nexterm=var1+var2;
 	}
-	printf("The fibonacci series is: %d",nexterm);
+	printf(" %d",nexterm);
 	getch();
 }
